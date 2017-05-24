@@ -1,0 +1,1 @@
+OldSharedPtr是存在缺陷的版本，NewSharedPtr是带有删除器的正确版本，想深入了解sharedptr智能指针请查看我的博客：http://www.1024do.com/?p=2764
